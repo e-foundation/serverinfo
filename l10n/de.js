@@ -38,7 +38,7 @@ OC.L10N.register(
     "Size" : "Größe",
     "Available" : "Verfügbar",
     "Used" : "Verwendet",
-    "You will get a notification once one of your disks is nearly full." : "Du erhältst eine Benachrichtigung sobald eine Deiner Speichermedien fast voll ist.",
+    "You will get a notification once one of your disks is nearly full." : "Du erhältst eine Benachrichtigung sobald eines Deiner Speichermedien fast voll ist.",
     "Files:" : "Dateien:",
     "Storages:" : "Speicher:",
     "Free Space:" : "Freier Speicherplatz:",
@@ -67,6 +67,6 @@ OC.L10N.register(
     "Appending \"?format=json\" at the end of the URL gives you the result in JSON." : "Wenn Du \"?format=json\" am Ende der URL anhängst, erhältst Du das Ergebnis in JSON.",
     "Time Servers" : "Zeitserver",
     "Did you know?" : "Wusstest Du schon?",
-    "Appending \"?format=json\" at the end of the URL gives you the result in JSON format!" : "Das Anhängen von \"?format=json\" am Ende der URL gibt Dir das Ergebnis im JSON-Format!"
+    "Appending \"?format=json\" at the end of the URL gives you the result in JSON format!" : "Das Anhängen von \"?format=json\" am Ende der URL liefert Dir das Ergebnis im JSON-Format!"
 },
 "nplurals=2; plural=(n != 1);");
